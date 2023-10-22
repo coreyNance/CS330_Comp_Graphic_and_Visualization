@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\anyth\Documents\SNHU studies\CS-330\Week-7\7-1_Project_Two\Source.cpp(387,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\anyth\Documents\SNHU studies\CS-330\Week-7\7-1_Project_Two\Source.cpp(535,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anyth\Documents\SNHU studies\CS-330\Week-7\7-1_Project_Two\Source.cpp(536,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anyth\Documents\SNHU studies\CS-330\Week-7\7-1_Project_Two\Source.cpp(540,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\anyth\Documents\SNHU studies\CS-330\Week-7\7-1_Project_Two\Source.cpp(541,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\anyth\Documents\SNHU studies\CS-330\Week-7\7-1_Project_Two\Source.cpp(542,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anyth\Documents\SNHU studies\CS-330\Week-7\7-1_Project_Two\Source.cpp(543,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CS330_OpenGL.vcxproj -> C:\Users\anyth\Documents\SNHU studies\CS-330\Week-7\7-1_Project_Two\Debug\CS330_OpenGL.exe
